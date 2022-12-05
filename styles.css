@@ -440,11 +440,22 @@ body {
   }
 
   .card-container {
-    margin: 20px 0;
     display: flex;
     align-items: center;
     justify-content: center;
     width: 100%;
-    margin: 0 auto;
+    margin: 20px auto;
+    flex-direction: column;
+  }
+
+  .container {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .banner {
+      padding-left: 20px;
+      padding-right: 20px;
+    }
   }
 }
