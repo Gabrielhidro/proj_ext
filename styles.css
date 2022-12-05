@@ -361,6 +361,7 @@ body {
   gap: 12px;
   align-items: center;
   text-align: center;
+  width: 300px;
 }
 
 .user h3 {
