@@ -474,4 +474,16 @@ body {
   .form input {
     border-radius: 8px;
   }
+
+  .sec-title {
+    text-align: center;
+  }
+
+  .title_light {
+    text-align: center;
+  }
+
+  .card-news {
+    width: 80%;
+  }
 }
