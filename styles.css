@@ -462,4 +462,16 @@ body {
   .full-container {
     display: block;
   }
+
+  .form {
+    flex-direction: column;
+  }
+
+  .form button {
+    border-radius: 8px;
+  }
+
+  .form input {
+    border-radius: 8px;
+  }
 }
