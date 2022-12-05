@@ -361,7 +361,6 @@ body {
   gap: 12px;
   align-items: center;
   text-align: center;
-  width: 33%;
 }
 
 .user h3 {
@@ -369,6 +368,7 @@ body {
   font-weight: 600;
   text-align: center;
   color: #1B625E;
+  justify-content: space-between;
 }
 
 .user p {
