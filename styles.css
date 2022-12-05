@@ -181,6 +181,7 @@ body {
 .carousel__item > img {
   width: 100%;
   border-radius: 12px;
+  height: inherit;
   height: -webkit-fill-available;
 }
   
